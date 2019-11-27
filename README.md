@@ -1,6 +1,7 @@
 # To-Do
 
 1. Git / Git branching strategy
+ - github collaborator 추가 : https://hyoje420.tistory.com/41
  - git?
  - Git branching strategy?
 
