@@ -19,6 +19,6 @@
  
 
 5. Grid Solution
- - jqGrid
- - toast Grid
+ - jqGrid (https://free-jqgrid.github.io/getting-started/index.html)
+ - toast Grid (https://ui.toast.com/tui-grid/)
  - https://okky.kr/article/538535
